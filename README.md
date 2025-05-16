@@ -13,3 +13,5 @@ The use of both real and fake fanatics presents numerous advantages for business
 [Mario Fanatic](https://chatgpt.com/g/g-680864f561b48191a068b54ef8aa81cf-mario-fanatic)
 <br>
 [Fanatics](https://chatgpt.com/g/g-hUOHbbUoj-fanatics)
+<br>
+[Business](https://github.com/sourceduty/Business)
